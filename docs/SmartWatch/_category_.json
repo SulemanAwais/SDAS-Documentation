@@ -1,0 +1,9 @@
+{
+    "label": "Sensors in Smart Watch",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "How the sensor data of smart watch is acquised."
+    }
+  }
+  
